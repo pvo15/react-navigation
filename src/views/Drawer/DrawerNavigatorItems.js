@@ -119,7 +119,7 @@ const styles = StyleSheet.create({
      * Icons have 0.54 opacity according to guidelines
      * 100/87 * 54 ~= 62
      */
-    opacity: 0.62,
+   // opacity: 0.62,
   },
   label: {
     margin: 16,
